@@ -1,8 +1,8 @@
 #!/bin/sh
 
 ## Configure git
-system('git config --global user.name aishwarya611')
-system('git config --global user.email aishwaryarao@email.arizona.edu')
+git config --global user.name aishwarya611
+git config --global user.email aishwaryarao@email.arizona.edu
 
 ## Change the "origin" remote URL
 #git remote set-url origin ...
